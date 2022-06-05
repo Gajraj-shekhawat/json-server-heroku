@@ -1,9 +1,34 @@
 {
-  "todos":[
+  "todos": [
     {
-      "id" : 0,
-      "todo": "First post!",
-      "status" : false
+      "id": 1,
+      "todo": "task-1",
+      "status": false
+    },
+    {
+      "id": 2,
+      "todo": "task-2",
+      "status": true
+    },
+    {
+      "id": 3,
+      "todo": "task-3",
+      "status": false
+    },
+    {
+      "id": 4,
+      "todo": "task 4",
+      "status": false
+    },
+    {
+      "id": 5,
+      "todo": "task 5",
+      "status": false
+    },
+    {
+      "id": 6,
+      "todo": "task 6",
+      "status": false
     }
   ]
 }
