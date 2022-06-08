@@ -8273,6 +8273,66 @@
         "rate": 3.6,
         "count": 145
       }
+    },
+    {
+      "id": 21,
+      "title": "POLESTAR Vintage 32 L College/ School/ Office/ Casual/ Travel Backpack",
+      "price": 579,
+      "description": "POLESTAR Vintage” has unique style and utility requirement. Ergonomically designed with padded base. This Backpack is spacious, lightweight and easy to carry. It is an ideal backpack for daily use, Office, School, College, travel etc.",
+      "category": "bags",
+      "image": "https://m.media-amazon.com/images/I/818C-vmevNL._UX679_.jpg",
+      "rating": {
+        "rate": 4,
+        "count": 315
+      }
+    },
+    {
+      "id": 22,
+      "title": "F Gear Luxur Brown 25 liter Laptop Backpack (2404)",
+      "price": 1032,
+      "description": "A fashionable laptop backpack. This full-featured pack makes space for everything essential with multiple zip pockets on the exterior, plus a ready-to-go interior with padded laptop compartment and other storage solutions. Pattern: Solid. Laptop Size: 16",
+      "category": "bags",
+      "image": "https://m.media-amazon.com/images/I/81RtwUjQiFL._SY879_.jpg",
+      "rating": {
+        "rate": 4.4,
+        "count": 165
+      }
+    },
+    {
+      "id": 23,
+      "title": "American Tourister Casual Backpack",
+      "price": 999,
+      "description": "Lightweight backpack made of durable double dot polyester fabric.Mesh Padding on back & shoulder strap to provide comfort & better back support",
+      "category": "bags",
+      "image": "https://m.media-amazon.com/images/I/81KEKEDFUcL._UY879_.jpg",
+      "rating": {
+        "rate": 4.1,
+        "count": 908
+      }
+    },
+    {
+      "id": 24,
+      "title": "Arrow Men's Slim Shirt",
+      "price": 949,
+      "description": "Arrow's shirts are an undeniable choice when you want to look your best. This formal shirt features a point collar and full sleeve while the combination of fine tailoring and soft fabric gives you a smart & crisp look.",
+      "category": "men's clothing",
+      "image": "https://m.media-amazon.com/images/I/71OLkBVHc+L._UY879_.jpg",
+      "rating": {
+        "rate": 4,
+        "count": 176
+      }
+    },
+    {
+      "id": 25,
+      "title": "Jack & Jones Men's Carrot Slim Jeans",
+      "price": 989,
+      "description": "Jack & Jones Men Casual Wear Mid-Rise Slim Fit Solid Blue Jeans With 5 pockets",
+      "category": "men's clothing",
+      "image": "https://m.media-amazon.com/images/I/71T8cJ+4YIL._UY879_.jpg",
+      "rating": {
+        "rate": 4,
+        "count": 29
+      }
     }
   ]
 }
