@@ -8337,6 +8337,12 @@
   ],
   "company":[],
   "employee":[],
-  "authregister":[],
+  "authregister":[{
+      "email": "gajraj@masaischool.com",
+      "name": "Gajraj Singh Shekhawat",
+      "username": "Gajraj",
+      "password": "123456",
+      "id": 1
+    }],
   "auth":{"status":false,"token":false}
 }
