@@ -8338,5 +8338,5 @@
   "company":[],
   "employee":[],
   "authregister":[],
-  "auth":false
+  "auth":{"status":false,"token":false}
 }
