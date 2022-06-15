@@ -8336,5 +8336,7 @@
     }
   ],
   "company":[],
-  "employee":[]
+  "employee":[],
+  "authregister":[],
+  "auth":false
 }
