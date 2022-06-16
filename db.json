@@ -8823,5 +8823,41 @@
       "name": "Lake Palace",
       "city": "Jaipur"
     }
+  ],
+  "city": [
+    {
+      "name": "Mumbai",
+      "id":1
+    },{
+      "name": "Delhi ",
+      "id": 2
+    },{
+      "name": "jaipur",
+      "id": 3
+    },{
+      "name": " New Delhi",
+      "id": 1
+    },{
+      "name": "Goa",
+      "id": 4
+    },{
+      "name": "Hyderabad",
+      "id": 5
+    },{
+      "name": "Ahmedabad",
+      "id": 6
+    },{
+      "name": "Chennai ",
+      "id": 7
+    },{
+      "name": "Surat",
+      "id": 8
+    },{
+      "name": "Lucknow",
+      "id": 9
+    },{
+      "name": "Pune",
+      "id": 10
+    }
   ]
 }
